@@ -1,0 +1,6 @@
+newspaper3k 
+streamlit 
+openai
+pandas
+requests
+python-dotenv
